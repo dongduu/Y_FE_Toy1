@@ -48,7 +48,7 @@
 
 이미지
 
-!https://raw.githubusercontent.com/GyoHeon/stfe/main/project-design/ya-fa/public/carousel.webp
+https://raw.githubusercontent.com/GyoHeon/stfe/main/project-design/ya-fa/public/carousel.webp
 
 ### **모달 타이머**
 
